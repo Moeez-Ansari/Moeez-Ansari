@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Moeez-Ansari
-- 👀 I’m interested in flutter
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on c++
+- 👀 I’m interested in website development
+- 🌱 I’m currently learning development more
 
 <!---
 Moeez-Ansari/Moeez-Ansari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
